@@ -1,0 +1,14 @@
+/* Register.css */
+@media (max-width: 600px) {
+    .container {
+        padding: 10px;
+    }
+    
+    .form {
+        max-width: 100%;
+    }
+    
+    .input-field, .button {
+        font-size: 0.9em;
+    }
+}
