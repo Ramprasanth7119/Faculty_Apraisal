@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Faculty_Apraisal/static/css/main.6655aeca.css",
+    "main.js": "/Faculty_Apraisal/static/js/main.fe60b4ad.js",
+    "static/js/453.8ab44547.chunk.js": "/Faculty_Apraisal/static/js/453.8ab44547.chunk.js",
+    "index.html": "/Faculty_Apraisal/index.html",
+    "main.6655aeca.css.map": "/Faculty_Apraisal/static/css/main.6655aeca.css.map",
+    "main.fe60b4ad.js.map": "/Faculty_Apraisal/static/js/main.fe60b4ad.js.map",
+    "453.8ab44547.chunk.js.map": "/Faculty_Apraisal/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6655aeca.css",
+    "static/js/main.fe60b4ad.js"
+  ]
+}
