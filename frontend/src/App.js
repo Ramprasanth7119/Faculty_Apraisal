@@ -7,6 +7,7 @@ import VerifyEmail from './components/VerifyEmail'; // Import the new VerifyEmai
 
 function App() {
   return (
+    
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home />} />
@@ -15,6 +16,7 @@ function App() {
         <Route path="/verify-email" element={<VerifyEmail />} /> {/* Add this route */}
       </Routes>
     </BrowserRouter>
+
   );
 }
 
